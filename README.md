@@ -12,11 +12,19 @@
 
 ## About Me
 
-Hello! I'm Marco Ayora, a data science enthusiast based in Barcelona. I love diving into data to uncover insights and help drive strategic decisions. My journey into data science has equipped me with a robust analytical toolkit, and I'm passionate about translating complex data into actionable insights and accessible visualizations.
+## About Me
 
-I hold a background in data analytics from IronHack, where I've honed my skills in Python, SQL, MongoDB, Tableau, PowerBI, Machine Learning, and Deep Learning. From developing predictive models to conducting geospatial analyses, I leverage data to solve real-world problems and inform business strategies.
+Hello! I'm Marco Ayora, a data science enthusiast based in Barcelona. I love diving into data to uncover insights and drive strategic decisions. My journey into data science has equipped me with a robust analytical toolkit, and I'm passionate about translating complex data into actionable insights and accessible visualizations.
 
-Fluent in English, Spanish, French, Catalan, and with novice proficiency in Japanese, I enjoy adapting my presentations to engage effectively with a global audience. My experience as a trained actor also enriches my ability to communicate complex ideas clearly and compellingly.
+🔍 **Curious Analyst**: Always eager to explore new datasets and uncover hidden patterns.
+
+📊 **Data-Driven**: Skilled in Python, SQL, MongoDB, Tableau, PowerBI, Machine Learning, and Deep Learning.
+
+🌐 **Multilingual**: Fluent in English, Spanish, French, Catalan, and learning Japanese.
+
+🎭 **Engaging Presenter**: Experience as a trained actor helps me communicate complex ideas clearly.
+
+🚀 **Continuous Learner**: Constantly working on new projects and publishing them monthly on GitHub. Stay tuned for my latest updates!
 
 ## Skills
 
