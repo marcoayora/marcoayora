@@ -12,11 +12,11 @@
 
 ## About Me
 
-I'm a passionate, ambitious, and critical thinker based in Barcelona, with a strong background in data science. My journey into data science has equipped me with a robust analytical toolkit, enabling me to translate complex data into actionable insights and data visualizations accessible to all stakeholders.
+Hello! I'm Marco Ayora, a data science enthusiast based in Barcelona. I love diving into data to uncover insights and help drive strategic decisions. My journey into data science has equipped me with a robust analytical toolkit, and I'm passionate about translating complex data into actionable insights and accessible visualizations.
 
-With a background in data analytics from IronHack, I have honed my skills in Python, SQL, MongoDB, Tableau, PowerBI, Machine Learning, and Deep Learning. I specialize in developing predictive models, conducting geospatial analyses, and leveraging data to drive strategic decisions.
+I hold a background in data analytics from IronHack, where I've honed my skills in Python, SQL, MongoDB, Tableau, PowerBI, Machine Learning, and Deep Learning. From developing predictive models to conducting geospatial analyses, I leverage data to solve real-world problems and inform business strategies.
 
-Fluent in English, Spanish, French, Catalan, and with novice proficiency in Japanese, my experience as a trained actor enriches my ability to adapt presentations and engage effectively with a global audience. My strategic thinking and attention to detail create exceptional results in data science projects.
+Fluent in English, Spanish, French, Catalan, and with novice proficiency in Japanese, I enjoy adapting my presentations to engage effectively with a global audience. My experience as a trained actor also enriches my ability to communicate complex ideas clearly and compellingly.
 
 ## Skills
 
@@ -28,15 +28,20 @@ Fluent in English, Spanish, French, Catalan, and with novice proficiency in Japa
 ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-brightgreen?style=for-the-badge&logo=machinelearning)
 ![Deep Learning](https://img.shields.io/badge/Deep%20Learning-red?style=for-the-badge&logo=deeplearning)
 
-## My Projects
+## Top Projects
 
-- [Project 1](link-to-project) - Brief description.
-- [Project 2](link-to-project) - Brief description.
+<a href="https://github.com/marcoayora/Final-project-real-estate">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=marcoayora&repo=Final-project-real-estate&theme=buefy" />
+</a>
+<a href="https://github.com/marcoayora/Office_relocation">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=marcoayora&repo=Office_relocation&theme=buefy" />
+</a>
 
 ## GitHub Stats
 
 ![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=marcoayora&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=marcoayora&layout=compact&theme=radical)
+
 ## Get In Touch
 
 📧 Email: ocramarsic@gmail.com
