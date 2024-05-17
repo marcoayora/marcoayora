@@ -30,7 +30,7 @@ Fluent in English, Spanish, French, Catalan, and with novice proficiency in Japa
   <div>
     <img src="https://github.com/marclelijveld/Power-BI-Icons/blob/main/SVG/Power-BI.svg" title="PowerBI" alt="PowerBI" width="40" height="40"/>&nbsp;<span>PowerBI</span><br>
     <img src="https://github.com/Sarvandani/Data_science_logos/blob/main/Scikit_learn.svg" title="Machine Learning" alt="Machine Learning" width="40" height="40"/>&nbsp;<span>Machine Learning</span><br>
-    <img src="![image](https://github.com/marcoayora/marcoayora/assets/145470882/004dfefa-b2ce-4c76-aecb-46ee7f525219)" title="Deep Learning" alt="Deep Learning" width="40" height="40"/>&nbsp;<span>Deep Learning</span>
+    <img src="https://github.com/valohai/ml-logos/blob/master/tensorflow-tf.svg" title="Deep Learning" alt="Deep Learning" width="40" height="40"/>&nbsp;<span>Deep Learning</span>
   </div>
 </div>
 
