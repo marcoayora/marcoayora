@@ -20,13 +20,19 @@ Fluent in English, Spanish, French, Catalan, and with novice proficiency in Japa
 
 ## Skills
 
-![Python](https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python)
-![SQL](https://img.shields.io/badge/SQL-orange?style=for-the-badge&logo=sql)
-![Tableau](https://img.shields.io/badge/Tableau-blueviolet?style=for-the-badge&logo=tableau)
-![MongoDB](https://img.shields.io/badge/MongoDB-green?style=for-the-badge&logo=mongodb)
-![PowerBI](https://img.shields.io/badge/PowerBI-yellow?style=for-the-badge&logo=powerbi)
-![Machine Learning](https://img.shields.io/badge/Machine%20Learning-brightgreen?style=for-the-badge&logo=machinelearning)
-![Deep Learning](https://img.shields.io/badge/Deep%20Learning-red?style=for-the-badge&logo=deeplearning)
+<div style="display: flex; justify-content: center;">
+  <div style="margin-right: 10px;">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;<span>Python</span><br>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" title="SQL" alt="SQL" width="40" height="40"/>&nbsp;<span>SQL</span><br>
+    <img src="https://user-images.githubusercontent.com/18670428/67620073-ca558e00-f7fa-11e9-9ea2-ed3a80c59210.png" title="Tableau" alt="Tableau" width="40" height="40"/>&nbsp;<span>Tableau</span><br>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" title="MongoDB" alt="MongoDB" width="40" height="40"/>&nbsp;<span>MongoDB</span>
+  </div>
+  <div>
+    <img src="https://github.com/marclelijveld/Power-BI-Icons/blob/main/SVG/Power-BI.svg" title="PowerBI" alt="PowerBI" width="40" height="40"/>&nbsp;<span>PowerBI</span><br>
+    <img src="https://github.com/Sarvandani/Data_science_logos/blob/main/Scikit_learn.svg" title="Machine Learning" alt="Machine Learning" width="40" height="40"/>&nbsp;<span>Machine Learning</span><br>
+    <img src="![image](https://github.com/marcoayora/marcoayora/assets/145470882/004dfefa-b2ce-4c76-aecb-46ee7f525219)" title="Deep Learning" alt="Deep Learning" width="40" height="40"/>&nbsp;<span>Deep Learning</span>
+  </div>
+</div>
 
 ## Top Projects
 
@@ -41,9 +47,17 @@ Fluent in English, Spanish, French, Catalan, and with novice proficiency in Japa
 
 ![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=marcoayora&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=marcoayora&layout=compact&theme=radical)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=marcoayora&theme=dark&background=000000)](https://git.io/streak-stats)
 
 ## Get In Touch
 
 📧 Email: ocramarsic@gmail.com
 
 Feel free to reach out if you are looking for a versatile expert in data science who brings a fresh perspective and commitment to excellence.
+
+<a href="https://twitter.com/yourtwitterhandle">
+  <img align="right" alt="Marco Ayora | Twitter" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg" />
+</a>
+<a href="https://codesandbox.io/u/yourcodesandboxhandle">
+  <img align="right" alt="Marco Ayora | CodeSandbox" width="20px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/codesandbox.svg" />
+</a>
