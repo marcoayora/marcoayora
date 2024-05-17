@@ -44,11 +44,12 @@ Hello! I'm Marco Ayora, a data science enthusiast based in Barcelona. I love div
 ## Top Projects
 
 <a href="https://github.com/marcoayora/Final-project-real-estate">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=marcoayora&repo=Final-project-real-estate&theme=buefy" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=marcoayora&repo=Final-project-real-estate&theme=buefy&show_owner=true" />
 </a>
 <a href="https://github.com/marcoayora/Office_relocation">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=marcoayora&repo=Office_relocation&theme=buefy" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=marcoayora&repo=Office_relocation&theme=buefy&show_owner=true" />
 </a>
+
 
 ## GitHub Stats
 
