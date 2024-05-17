@@ -36,7 +36,7 @@ Fluent in English, Spanish, French, Catalan, and with novice proficiency in Japa
 ## GitHub Stats
 
 ![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=marcoayora&show_icons=true&theme=radical)
-
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=marcoayora&layout=compact&theme=radical)
 ## Get In Touch
 
 📧 Email: ocramarsic@gmail.com
